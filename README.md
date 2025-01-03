@@ -1,4 +1,5 @@
 # Portfolio
+Welcome to my portfolio! Please see the included links below to access the individual repositories for projects I have completed.
 
 ## Projects
 - [Collaborative Trip Planner](https://github.com/sierrareschke/CollaborativeTripPlanner): Collaborative Trip Planner as a service.
